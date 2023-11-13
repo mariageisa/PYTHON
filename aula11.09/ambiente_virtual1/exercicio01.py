@@ -16,8 +16,13 @@ texto = "Somos uma escola de tecnologia de informação que cria pontes entre pe
 
 #faça o fatiamento de oito palavras e monte uma frase com a impressão dessas palavras
 
-l1 = (texto[10:17])
-l2 = (texto[45:49])
-l3 = (texto[114:126])
-l4 = (texto[125:134])
-l5 = (texto[160:172])
+print(texto[10:17])
+print(texto[45:49])
+print(texto[114:126])
+print(texto[125:134])
+print(texto[160:172])
+print(texto[114:126])
+print(texto[125:134])
+print(texto[160:172])
+
+print(texto[10:17], texto[45:49])
