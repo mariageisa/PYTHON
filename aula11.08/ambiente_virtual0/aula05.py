@@ -10,8 +10,6 @@ nome = "Rodrigo Jose dos Santos Amaral Neto Junior"
 print(nome[17:23])
 print(nome[-6:])
 print(nome[0::2])#par
-print(nome[1::2])#impar no indice
-
 
 print("="*20)
 lista_nome = ("p", "a", "u", "l","o")
