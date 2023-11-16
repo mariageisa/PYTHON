@@ -21,3 +21,4 @@ lista_temp.append(16)
 del lista_temp[1]
 del lista_temp[-1]
 print(lista_temp)
+print("fim do programa")
