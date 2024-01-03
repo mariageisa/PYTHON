@@ -1,0 +1,6 @@
+nome = input('digite um nome: ')
+print('a ocorrência da vogal a é de:' ,nome.count('a'))
+print('a ocorrência da vogal e é de:' ,nome.count('e'))
+print('a ocorrência da vogal i é de:' ,nome.count('i'))
+print('a ocorrência da vogal o é de:' ,nome.count('o'))
+print('a ocorrência da vogal u é de:' ,nome.count('u'))
